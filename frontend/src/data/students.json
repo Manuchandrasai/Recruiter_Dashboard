@@ -1,0 +1,509 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Johnson",
+    "email": "alex.j@example.com",
+    "profilePic": "https://randomuser.me/api/portraits/men/11.jpg",
+    "score": 87,
+    "percentile": 92,
+    "percentileLabel": "Top 8%",
+    "sections": {
+      "Coding": 90,
+      "Aptitude": 85,
+      "Communication": 88
+    },
+    "skills": {
+      "JavaScript": 4,
+      "React": 5,
+      "Node.js": 3,
+      "CSS": 4,
+      "HTML": 5
+    },
+    "certifications": [
+      "AWS Certified Solutions Architect - May 2023",
+      "Professional Scrum Master I - Jan 2022"
+    ],
+    "projects": [
+      "E-commerce Platform - React, Node.js, MongoDB",
+      "Financial Dashboard - TypeScript, Next.js, PostgreSQL"
+    ],
+    "portfolio": {
+      "summary": "92% Avg Score",
+      "challenges": [
+        { "problem": "String Reversal", "score": 100, "difficulty": "Easy", "status": true, "time": "2m 45s" },
+        { "problem": "Binary Search Tree", "score": 92, "difficulty": "Medium", "status": true, "time": "8m 20s" },
+        { "problem": "Dynamic Programming", "score": 85, "difficulty": "Hard", "status": true, "time": "15m 10s" },
+        { "problem": "Graph Traversal", "score": "-", "difficulty": "Medium", "status": false, "time": "-" }
+      ]
+    },
+    "resume": "Alex_Johnson_Resume.pdf"
+  },
+  {
+    "id": 2,
+    "name": "Samantha Lee",
+    "email": "sam.lee@example.com",
+    "profilePic": "https://randomuser.me/api/portraits/women/22.jpg",
+    "score": 92,
+    "percentile": 97,
+    "percentileLabel": "Top 3%",
+    "sections": { "Coding": 95, "Aptitude": 90, "Communication": 92 },
+    "skills": { "JavaScript": 5, "React": 4, "Node.js": 5, "CSS": 4, "HTML": 5 },
+    "certifications": [
+      "Google UX Design Certificate - Jul 2023",
+      "Certified Scrum Product Owner - May 2022"
+    ],
+    "projects": [
+      "Online Learning Platform - React, Firebase",
+      "Health Tracker App - Vue.js, Node.js, MongoDB"
+    ],
+    "portfolio": {
+      "summary": "95% Avg Score",
+      "challenges": [
+        { "problem": "String Reversal", "score": 100, "difficulty": "Easy", "status": true, "time": "2m 30s" },
+        { "problem": "Binary Search Tree", "score": 91, "difficulty": "Medium", "status": true, "time": "7m 10s" },
+        { "problem": "Dynamic Programming", "score": 88, "difficulty": "Hard", "status": true, "time": "14m 5s" },
+        { "problem": "Graph Traversal", "score": "-", "difficulty": "Medium", "status": false, "time": "-" }
+      ]
+    },
+    "resume": "Samantha_Lee_Resume.pdf"
+  },
+  {
+    "id": 3,
+    "name": "Emma Rodriguez",
+    "email": "e.rodriguez@example.com",
+    "profilePic": "https://randomuser.me/api/portraits/women/33.jpg",
+    "score": 85,
+    "percentile": 89,
+    "percentileLabel": "Top 11%",
+    "sections": { "Coding": 87, "Aptitude": 84, "Communication": 89 },
+    "skills": { "JavaScript": 4, "React": 5, "Node.js": 3, "CSS": 4, "HTML": 5 },
+    "certifications": [
+      "Microsoft Certified Azure Developer - Aug 2023",
+      "Oracle Certified Java Programmer - Jan 2021"
+    ],
+    "projects": [
+      "Inventory Management System - Angular, Spring Boot",
+      "Video Streaming App - React, Node.js, AWS"
+    ],
+    "portfolio": {
+      "summary": "89% Avg Score",
+      "challenges": [
+        { "problem": "String Reversal", "score": 97, "difficulty": "Easy", "status": true, "time": "3m 10s" },
+        { "problem": "Binary Search Tree", "score": 89, "difficulty": "Medium", "status": true, "time": "8m 30s" },
+        { "problem": "Dynamic Programming", "score": 85, "difficulty": "Hard", "status": true, "time": "16m 10s" },
+        { "problem": "Graph Traversal", "score": 80, "difficulty": "Medium", "status": true, "time": "9m 45s" }
+      ]
+    },
+    "resume": "Emma_Rodriguez_Resume.pdf"
+  },
+  {
+    "id": 4,
+    "name": "Michael Chen",
+    "email": "m.chen@example.com",
+    "profilePic": "https://randomuser.me/api/portraits/men/44.jpg",
+    "score": 78,
+    "percentile": 82,
+    "percentileLabel": "Top 18%",
+    "sections": { "Coding": 80, "Aptitude": 75, "Communication": 79 },
+    "skills": { "JavaScript": 3, "React": 4, "Node.js": 2, "CSS": 3, "HTML": 4 },
+    "certifications": [
+      "Certified Web Developer - FreeCodeCamp - Dec 2022"
+    ],
+    "projects": [
+      "Food Delivery App - React Native, Firebase",
+      "Portfolio Website - HTML, CSS, JavaScript"
+    ],
+    "portfolio": {
+      "summary": "82% Avg Score",
+      "challenges": [
+        { "problem": "String Reversal", "score": 90, "difficulty": "Easy", "status": true, "time": "3m 55s" },
+        { "problem": "Binary Search Tree", "score": 82, "difficulty": "Medium", "status": true, "time": "10m 12s" },
+        { "problem": "Dynamic Programming", "score": 76, "difficulty": "Hard", "status": false, "time": "-" },
+        { "problem": "Graph Traversal", "score": 65, "difficulty": "Medium", "status": true, "time": "12m 30s" }
+      ]
+    },
+    "resume": "Michael_Chen_Resume.pdf"
+  },
+  {
+    "id": 5,
+    "name": "David Wilson",
+    "email": "d.wilson@example.com",
+    "profilePic": "https://randomuser.me/api/portraits/men/55.jpg",
+    "score": 95,
+    "percentile": 99,
+    "percentileLabel": "Top 1%",
+    "sections": { "Coding": 98, "Aptitude": 94, "Communication": 90 },
+    "skills": { "JavaScript": 5, "React": 4, "Node.js": 5, "CSS": 4, "HTML": 5 },
+    "certifications": [
+      "Google Cloud Professional Engineer - Jun 2023",
+      "ISTQB Certified Tester - Mar 2021"
+    ],
+    "projects": [
+      "AI Chatbot - Python, Flask, OpenAI API",
+      "Job Portal - React, Node.js, PostgreSQL"
+    ],
+    "portfolio": {
+      "summary": "98% Avg Score",
+      "challenges": [
+        { "problem": "String Reversal", "score": 100, "difficulty": "Easy", "status": true, "time": "2m 10s" },
+        { "problem": "Binary Search Tree", "score": 98, "difficulty": "Medium", "status": true, "time": "6m 55s" },
+        { "problem": "Dynamic Programming", "score": 96, "difficulty": "Hard", "status": true, "time": "13m 45s" },
+        { "problem": "Graph Traversal", "score": 92, "difficulty": "Medium", "status": true, "time": "11m 20s" }
+      ]
+    },
+    "resume": "David_Wilson_Resume.pdf"
+  },
+  {
+    "id": 6,
+    "name": "Kishore Jha",
+    "email": "k.jha@example.com",
+    "profilePic": "https://randomuser.me/api/portraits/men/66.jpg",
+    "score": 70,
+    "percentile": 90,
+    "percentileLabel": "Top 10%",
+    "sections": { "Coding": 78, "Aptitude": 65, "Communication": 68 },
+    "skills": { "JavaScript": 4, "React": 4, "Node.js": 3, "CSS": 3, "HTML": 4 },
+    "certifications": [
+      "Meta Front-End Developer - Jan 2024",
+      "AWS Developer Associate - Oct 2022"
+    ],
+    "projects": [
+      "ToDo App - React, Firebase",
+      "Expense Tracker - Vue.js, MongoDB"
+    ],
+    "portfolio": {
+      "summary": "88% Avg Score",
+      "challenges": [
+        { "problem": "String Reversal", "score": 89, "difficulty": "Easy", "status": true, "time": "4m 05s" },
+        { "problem": "Binary Search Tree", "score": 87, "difficulty": "Medium", "status": true, "time": "9m 50s" },
+        { "problem": "Dynamic Programming", "score": 76, "difficulty": "Hard", "status": false, "time": "-" },
+        { "problem": "Graph Traversal", "score": 71, "difficulty": "Medium", "status": true, "time": "10m 15s" }
+      ]
+    },
+    "resume": "Kishore_Jha_Resume.pdf"
+  },
+   {
+    "id": 7,
+    "name": "Priya Nair",
+    "email": "priya.nair@example.com",
+    "profilePic": "https://randomuser.me/api/portraits/women/45.jpg",
+    "score": 83,
+    "percentile": 87,
+    "percentileLabel": "Top 13%",
+    "sections": { "Coding": 85, "Aptitude": 82, "Communication": 84 },
+    "skills": { "JavaScript": 4, "React": 4, "Node.js": 3, "CSS": 4, "HTML": 5 },
+    "certifications": [ "IBM Full-Stack Developer - Mar 2023" ],
+    "projects": [ "Recipe App - React, Node.js", "Chat App - React Native, Firebase" ],
+    "portfolio": {
+      "summary": "87% Avg Score",
+      "challenges": [
+        { "problem": "String Reversal", "score": 95, "difficulty": "Easy", "status": true, "time": "2m 50s" },
+        { "problem": "Binary Search Tree", "score": 88, "difficulty": "Medium", "status": true, "time": "8m 40s" },
+        { "problem": "Dynamic Programming", "score": 84, "difficulty": "Hard", "status": true, "time": "14m 25s" },
+        { "problem": "Graph Traversal", "score": 79, "difficulty": "Medium", "status": true, "time": "9m 10s" }
+      ]
+    },
+    "resume": "Priya_Nair_Resume.pdf"
+  },
+  {
+    "id": 8,
+    "name": "Arjun Mehta",
+    "email": "arjun.mehta@example.com",
+    "profilePic": "https://randomuser.me/api/portraits/men/27.jpg",
+    "score": 66,
+    "percentile": 75,
+    "percentileLabel": "Top 25%",
+    "sections": { "Coding": 70, "Aptitude": 65, "Communication": 64 },
+    "skills": { "JavaScript": 3, "React": 2, "Node.js": 3, "CSS": 3, "HTML": 4 },
+    "certifications": [ "Udacity Front-End Nanodegree - Dec 2023" ],
+    "projects": [ "Blog App - HTML, CSS, JS", "Weather App - JavaScript, API" ],
+    "portfolio": {
+      "summary": "75% Avg Score",
+      "challenges": [
+        { "problem": "String Reversal", "score": 85, "difficulty": "Easy", "status": true, "time": "3m 15s" },
+        { "problem": "Binary Search Tree", "score": 72, "difficulty": "Medium", "status": true, "time": "9m 30s" },
+        { "problem": "Dynamic Programming", "score": 61, "difficulty": "Hard", "status": false, "time": "-" },
+        { "problem": "Graph Traversal", "score": 60, "difficulty": "Medium", "status": false, "time": "-" }
+      ]
+    },
+    "resume": "Arjun_Mehta_Resume.pdf"
+  },
+  {
+    "id": 9,
+    "name": "Zara Khan",
+    "email": "zara.khan@example.com",
+    "profilePic": "https://randomuser.me/api/portraits/women/61.jpg",
+    "score": 90,
+    "percentile": 95,
+    "percentileLabel": "Top 5%",
+    "sections": { "Coding": 93, "Aptitude": 89, "Communication": 91 },
+    "skills": { "JavaScript": 5, "React": 5, "Node.js": 4, "CSS": 4, "HTML": 5 },
+    "certifications": [ "AWS Developer - Sep 2023", "Scrum Master - May 2022" ],
+    "projects": [ "E-Learning App - React, Node.js", "News Aggregator - Vue.js, MongoDB" ],
+    "portfolio": {
+      "summary": "94% Avg Score",
+      "challenges": [
+        { "problem": "String Reversal", "score": 100, "difficulty": "Easy", "status": true, "time": "2m 20s" },
+        { "problem": "Binary Search Tree", "score": 94, "difficulty": "Medium", "status": true, "time": "7m 30s" },
+        { "problem": "Dynamic Programming", "score": 90, "difficulty": "Hard", "status": true, "time": "13m 10s" },
+        { "problem": "Graph Traversal", "score": 85, "difficulty": "Medium", "status": true, "time": "10m 00s" }
+      ]
+    },
+    "resume": "Zara_Khan_Resume.pdf"
+  },
+  {
+    "id": 10,
+    "name": "Rahul Verma",
+    "email": "rahul.verma@example.com",
+    "profilePic": "https://randomuser.me/api/portraits/men/52.jpg",
+    "score": 88,
+    "percentile": 93,
+    "percentileLabel": "Top 7%",
+    "sections": { "Coding": 91, "Aptitude": 87, "Communication": 86 },
+    "skills": { "JavaScript": 5, "React": 5, "Node.js": 4, "CSS": 4, "HTML": 5 },
+    "certifications": [ "Coursera MERN Stack - Nov 2023" ],
+    "projects": [ "Event Booking System - MERN", "Crypto Price Tracker - React, APIs" ],
+    "portfolio": {
+      "summary": "93% Avg Score",
+      "challenges": [
+        { "problem": "String Reversal", "score": 100, "difficulty": "Easy", "status": true, "time": "2m 40s" },
+        { "problem": "Binary Search Tree", "score": 90, "difficulty": "Medium", "status": true, "time": "8m 10s" },
+        { "problem": "Dynamic Programming", "score": 88, "difficulty": "Hard", "status": true, "time": "14m 00s" },
+        { "problem": "Graph Traversal", "score": 86, "difficulty": "Medium", "status": true, "time": "9m 50s" }
+      ]
+    },
+    "resume": "Rahul_Verma_Resume.pdf"
+  },
+  {
+    "id": 11,
+    "name": "Sneha Reddy",
+    "email": "sneha.reddy@example.com",
+    "profilePic": "https://randomuser.me/api/portraits/women/12.jpg",
+    "score": 80,
+    "percentile": 85,
+    "percentileLabel": "Top 15%",
+    "sections": { "Coding": 82, "Aptitude": 79, "Communication": 81 },
+    "skills": { "JavaScript": 4, "React": 3, "Node.js": 3, "CSS": 4, "HTML": 4 },
+    "certifications": [ "Meta Frontend Developer - Feb 2024" ],
+    "projects": [ "Portfolio Site - React", "Expense Manager - Firebase" ],
+    "portfolio": {
+      "summary": "84% Avg Score",
+      "challenges": [
+        { "problem": "String Reversal", "score": 92, "difficulty": "Easy", "status": true, "time": "3m 00s" },
+        { "problem": "Binary Search Tree", "score": 83, "difficulty": "Medium", "status": true, "time": "9m 20s" },
+        { "problem": "Dynamic Programming", "score": 78, "difficulty": "Hard", "status": true, "time": "15m 20s" },
+        { "problem": "Graph Traversal", "score": 75, "difficulty": "Medium", "status": true, "time": "11m 10s" }
+      ]
+    },
+    "resume": "Sneha_Reddy_Resume.pdf"
+  },
+  {
+    "id": 12,
+    "name": "Nikhil Sharma",
+    "email": "nikhil.sharma@example.com",
+    "profilePic": "https://randomuser.me/api/portraits/men/12.jpg",
+    "score": 74,
+    "percentile": 78,
+    "percentileLabel": "Top 22%",
+    "sections": { "Coding": 76, "Aptitude": 72, "Communication": 74 },
+    "skills": { "JavaScript": 4, "React": 3, "Node.js": 2, "CSS": 3, "HTML": 4 },
+    "certifications": [ "Responsive Web Design - FreeCodeCamp - Aug 2023" ],
+    "projects": [ "Blog Site - HTML, CSS", "Form Validator - JavaScript" ],
+    "portfolio": {
+      "summary": "78% Avg Score",
+      "challenges": [
+        { "problem": "String Reversal", "score": 88, "difficulty": "Easy", "status": true, "time": "3m 10s" },
+        { "problem": "Binary Search Tree", "score": 75, "difficulty": "Medium", "status": true, "time": "9m 40s" },
+        { "problem": "Dynamic Programming", "score": 65, "difficulty": "Hard", "status": false, "time": "-" },
+        { "problem": "Graph Traversal", "score": 70, "difficulty": "Medium", "status": true, "time": "10m 50s" }
+      ]
+    },
+    "resume": "Nikhil_Sharma_Resume.pdf"
+  },
+  {
+    "id": 13,
+    "name": "Ananya Gupta",
+    "email": "ananya.gupta@example.com",
+    "profilePic": "https://randomuser.me/api/portraits/women/13.jpg",
+    "score": 91,
+    "percentile": 96,
+    "percentileLabel": "Top 4%",
+    "sections": { "Coding": 95, "Aptitude": 90, "Communication": 88 },
+    "skills": { "JavaScript": 5, "React": 5, "Node.js": 5, "CSS": 4, "HTML": 5 },
+    "certifications": [ "AWS Cloud Practitioner - Jan 2024" ],
+    "projects": [ "Crypto Dashboard - React, Chart.js", "E-Commerce Cart - MERN Stack" ],
+    "portfolio": {
+      "summary": "95% Avg Score",
+      "challenges": [
+        { "problem": "String Reversal", "score": 100, "difficulty": "Easy", "status": true, "time": "2m 25s" },
+        { "problem": "Binary Search Tree", "score": 93, "difficulty": "Medium", "status": true, "time": "7m 45s" },
+        { "problem": "Dynamic Programming", "score": 90, "difficulty": "Hard", "status": true, "time": "13m 30s" },
+        { "problem": "Graph Traversal", "score": 88, "difficulty": "Medium", "status": true, "time": "10m 15s" }
+      ]
+    },
+    "resume": "Ananya_Gupta_Resume.pdf"
+  },
+  {
+    "id": 14,
+    "name": "Ravi Desai",
+    "email": "ravi.desai@example.com",
+    "profilePic": "https://randomuser.me/api/portraits/men/14.jpg",
+    "score": 67,
+    "percentile": 74,
+    "percentileLabel": "Top 26%",
+    "sections": { "Coding": 70, "Aptitude": 66, "Communication": 65 },
+    "skills": { "JavaScript": 3, "React": 2, "Node.js": 2, "CSS": 3, "HTML": 4 },
+    "certifications": [ "Frontend Fundamentals - Codecademy - May 2023" ],
+    "projects": [ "Music Player UI - HTML/CSS", "ToDo List - JavaScript" ],
+    "portfolio": {
+      "summary": "74% Avg Score",
+      "challenges": [
+        { "problem": "String Reversal", "score": 80, "difficulty": "Easy", "status": true, "time": "3m 40s" },
+        { "problem": "Binary Search Tree", "score": 68, "difficulty": "Medium", "status": true, "time": "10m 30s" },
+        { "problem": "Dynamic Programming", "score": 58, "difficulty": "Hard", "status": false, "time": "-" },
+        { "problem": "Graph Traversal", "score": 70, "difficulty": "Medium", "status": true, "time": "11m 15s" }
+      ]
+    },
+    "resume": "Ravi_Desai_Resume.pdf"
+  },
+  {
+    "id": 15,
+    "name": "Meera Joshi",
+    "email": "meera.joshi@example.com",
+    "profilePic": "https://randomuser.me/api/portraits/women/15.jpg",
+    "score": 88,
+    "percentile": 92,
+    "percentileLabel": "Top 8%",
+    "sections": { "Coding": 89, "Aptitude": 86, "Communication": 90 },
+    "skills": { "JavaScript": 5, "React": 4, "Node.js": 4, "CSS": 5, "HTML": 5 },
+    "certifications": [ "Full-Stack Web Dev - NPTEL - Dec 2023" ],
+    "projects": [ "Hotel Booking App - MERN", "Personal Portfolio - React" ],
+    "portfolio": {
+      "summary": "91% Avg Score",
+      "challenges": [
+        { "problem": "String Reversal", "score": 96, "difficulty": "Easy", "status": true, "time": "2m 55s" },
+        { "problem": "Binary Search Tree", "score": 90, "difficulty": "Medium", "status": true, "time": "8m 20s" },
+        { "problem": "Dynamic Programming", "score": 87, "difficulty": "Hard", "status": true, "time": "13m 50s" },
+        { "problem": "Graph Traversal", "score": 85, "difficulty": "Medium", "status": true, "time": "9m 40s" }
+      ]
+    },
+    "resume": "Meera_Joshi_Resume.pdf"
+  },
+  {
+    "id": 16,
+    "name": "Karan Patel",
+    "email": "karan.patel@example.com",
+    "profilePic": "https://randomuser.me/api/portraits/men/16.jpg",
+    "score": 60,
+    "percentile": 68,
+    "percentileLabel": "Top 32%",
+    "sections": { "Coding": 62, "Aptitude": 58, "Communication": 61 },
+    "skills": { "JavaScript": 3, "React": 2, "Node.js": 2, "CSS": 3, "HTML": 3 },
+    "certifications": [ "Frontend Basics - Great Learning - Mar 2023" ],
+    "projects": [ "Weather App - HTML, API", "Simple Calculator - JS" ],
+    "portfolio": {
+      "summary": "68% Avg Score",
+      "challenges": [
+        { "problem": "String Reversal", "score": 75, "difficulty": "Easy", "status": true, "time": "3m 30s" },
+        { "problem": "Binary Search Tree", "score": 62, "difficulty": "Medium", "status": false, "time": "-" },
+        { "problem": "Dynamic Programming", "score": 52, "difficulty": "Hard", "status": false, "time": "-" },
+        { "problem": "Graph Traversal", "score": 60, "difficulty": "Medium", "status": true, "time": "12m 00s" }
+      ]
+    },
+    "resume": "Karan_Patel_Resume.pdf"
+  },
+  {
+    "id": 17,
+    "name": "Ishita Roy",
+    "email": "ishita.roy@example.com",
+    "profilePic": "https://randomuser.me/api/portraits/women/17.jpg",
+    "score": 85,
+    "percentile": 90,
+    "percentileLabel": "Top 10%",
+    "sections": { "Coding": 88, "Aptitude": 84, "Communication": 85 },
+    "skills": { "JavaScript": 4, "React": 4, "Node.js": 3, "CSS": 4, "HTML": 5 },
+    "certifications": [ "Meta React Developer - Jan 2024" ],
+    "projects": [ "Recipe App - React, Firebase", "Social Feed - Node.js" ],
+    "portfolio": {
+      "summary": "89% Avg Score",
+      "challenges": [
+        { "problem": "String Reversal", "score": 94, "difficulty": "Easy", "status": true, "time": "2m 40s" },
+        { "problem": "Binary Search Tree", "score": 86, "difficulty": "Medium", "status": true, "time": "8m 10s" },
+        { "problem": "Dynamic Programming", "score": 82, "difficulty": "Hard", "status": true, "time": "15m 00s" },
+        { "problem": "Graph Traversal", "score": 83, "difficulty": "Medium", "status": true, "time": "10m 45s" }
+      ]
+    },
+    "resume": "Ishita_Roy_Resume.pdf"
+  },
+  {
+    "id": 18,
+    "name": "Aman Thakur",
+    "email": "aman.thakur@example.com",
+    "profilePic": "https://randomuser.me/api/portraits/men/18.jpg",
+    "score": 76,
+    "percentile": 80,
+    "percentileLabel": "Top 20%",
+    "sections": { "Coding": 78, "Aptitude": 75, "Communication": 77 },
+    "skills": { "JavaScript": 4, "React": 3, "Node.js": 3, "CSS": 3, "HTML": 4 },
+    "certifications": [ "React Basics - Coursera - Aug 2023" ],
+    "projects": [ "Quiz App - React", "Notes App - JavaScript" ],
+    "portfolio": {
+      "summary": "81% Avg Score",
+      "challenges": [
+        { "problem": "String Reversal", "score": 85, "difficulty": "Easy", "status": true, "time": "3m 20s" },
+        { "problem": "Binary Search Tree", "score": 80, "difficulty": "Medium", "status": true, "time": "9m 15s" },
+        { "problem": "Dynamic Programming", "score": 78, "difficulty": "Hard", "status": true, "time": "14m 45s" },
+        { "problem": "Graph Traversal", "score": 76, "difficulty": "Medium", "status": true, "time": "11m 05s" }
+      ]
+    },
+    "resume": "Aman_Thakur_Resume.pdf"
+  },
+  {
+    "id": 19,
+    "name": "Pooja Iyer",
+    "email": "pooja.iyer@example.com",
+    "profilePic": "https://randomuser.me/api/portraits/women/19.jpg",
+    "score": 82,
+    "percentile": 86,
+    "percentileLabel": "Top 14%",
+    "sections": { "Coding": 84, "Aptitude": 82, "Communication": 80 },
+    "skills": { "JavaScript": 4, "React": 3, "Node.js": 3, "CSS": 4, "HTML": 4 },
+    "certifications": [ "Full-Stack JavaScript - LinkedIn Learning - Nov 2023" ],
+    "projects": [ "Product Page UI - HTML, CSS", "Job Portal Clone - React" ],
+    "portfolio": {
+      "summary": "86% Avg Score",
+      "challenges": [
+        { "problem": "String Reversal", "score": 92, "difficulty": "Easy", "status": true, "time": "3m 00s" },
+        { "problem": "Binary Search Tree", "score": 83, "difficulty": "Medium", "status": true, "time": "8m 50s" },
+        { "problem": "Dynamic Programming", "score": 80, "difficulty": "Hard", "status": true, "time": "14m 35s" },
+        { "problem": "Graph Traversal", "score": 78, "difficulty": "Medium", "status": true, "time": "10m 55s" }
+      ]
+    },
+    "resume": "Pooja_Iyer_Resume.pdf"
+  },
+  {
+    "id": 20,
+    "name": "Siddharth Rao",
+    "email": "siddharth.rao@example.com",
+    "profilePic": "https://randomuser.me/api/portraits/men/20.jpg",
+    "score": 93,
+    "percentile": 98,
+    "percentileLabel": "Top 2%",
+    "sections": { "Coding": 97, "Aptitude": 91, "Communication": 90 },
+    "skills": { "JavaScript": 5, "React": 5, "Node.js": 5, "CSS": 4, "HTML": 5 },
+    "certifications": [ "Google Associate Android Dev - Feb 2024" ],
+    "projects": [ "Fitness Tracker - React Native", "E-commerce Backend - Node.js, MongoDB" ],
+    "portfolio": {
+      "summary": "97% Avg Score",
+      "challenges": [
+        { "problem": "String Reversal", "score": 100, "difficulty": "Easy", "status": true, "time": "2m 10s" },
+        { "problem": "Binary Search Tree", "score": 95, "difficulty": "Medium", "status": true, "time": "7m 00s" },
+        { "problem": "Dynamic Programming", "score": 93, "difficulty": "Hard", "status": true, "time": "13m 40s" },
+        { "problem": "Graph Traversal", "score": 90, "difficulty": "Medium", "status": true, "time": "9m 50s" }
+      ]
+    },
+    "resume": "Siddharth_Rao_Resume.pdf"
+  }
+  
+  
+]
