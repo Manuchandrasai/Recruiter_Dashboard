@@ -30,7 +30,7 @@ A full-stack web application for recruiters to create, manage, and filter job/in
 ## Screenshots
 
 **Step 1: Requirements Wizard**  
-![Requirements Step](attachments/Screenshot-2025-07-25-174225.jpg)
+![Basic Details]<img width="1365" height="767" alt="Screenshot 2025-07-25 174046" src="https://github.com/user-attachments/assets/ce0086e7-d6e5-4dcc-a1a7-5787c6b53057" />
 
 **Step 2: Visibility & Filters Wizard**  
 ![Visibility & Filters Step](attachments/Screenshot-2025-07-25-174245.jpg)
@@ -57,18 +57,21 @@ A full-stack web application for recruiters to create, manage, and filter job/in
 1. **Clone the Repository**
 
 `git clone https://github.com/Manuchandrasai/Recruiter_Dashboard.git`
+
 `cd Recruiter_Dashboard`
 
 
 2. **Frontend Setup**
 
 `cd frontend`
+
 `npm install`
 
 
 3. **Backend Setup**
 
 `cd ../backend/RecruiterApi`
+
 `npm install`
 
 6. **Access the application:**  
