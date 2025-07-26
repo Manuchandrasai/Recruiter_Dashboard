@@ -113,16 +113,3 @@ Open `http://localhost:3000` in your web browser.
 `git commit -am 'Add feature'`  
 `git push origin feature/YourFeature`
 4. Open a Pull Request
-
----
-
-## License
-
-MIT License
-
----
-
-**Happy Recruiting!**
-
-
-
