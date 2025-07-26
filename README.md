@@ -43,8 +43,15 @@ A full-stack web application for recruiters to create, manage, and filter job/in
 <img width="1365" height="767" alt="Screenshot 2025-07-25 174414" src="https://github.com/user-attachments/assets/04dcfc6b-31e0-4fab-8e36-5e9dcd63d62d" />
 <img width="1365" height="767" alt="Screenshot 2025-07-25 174404" src="https://github.com/user-attachments/assets/7969907e-f42a-4c9f-b224-4a4f675c67be" />
 
-**Basic Details Wizard**  
-![Basic Details Step](attachments/Screenshot-2025-07-25-174046.jpg)
+**Gest Scorecard Dashboard**  
+<img width="1365" height="767" alt="Screenshot 2025-07-25 174441" src="https://github.com/user-attachments/assets/7d1f8939-a2e5-4448-919a-56260238b31a" />
+<img width="1365" height="767" alt="Screenshot 2025-07-25 174441" src="https://github.com/user-attachments/assets/e6fd6a2b-9b8c-4e48-bc34-ec8ad61c26db" />
+<img width="1359" height="765" alt="Screenshot 2025-07-25 174503" src="https://github.com/user-attachments/assets/4892923c-88b2-4002-914e-6ceb21c6a850" />
+
+**Communication Tools**  
+
+
+
 
 ---
 
