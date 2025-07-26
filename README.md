@@ -1,0 +1,112 @@
+# Recruiter Dashboard
+
+A full-stack web application for recruiters to create, manage, and filter job/internship postings with customized requirements and advanced visibility controls.
+
+---
+
+## Features
+
+- **Multi-step Job/Internship Posting Wizard**
+  - **Basic Details**: Fill out job title, description, location, stipend/CTC, job type, duration, bond details, and work mode (on-site, remote, hybrid).
+  - **Requirements**: Specify required skills, select relevant tech stack, and apply academic filters including minimum CGPA, branch, and year of study.
+  - **Visibility & Filters**: Restrict posting visibility to all students, filtered colleges, or only GEST-qualified students (by year). See estimated student/institution reach based on filters.
+
+- **Dashboard & Management**
+  - View, edit, and delete all job/internship postings from a single dashboard.
+  - Detailed job view page with a complete summary of requirements and criteria.
+  - Simple navigation to manage and update postings.
+
+---
+
+## Tech Stack
+
+- **Frontend:** ReactJS, CSS
+- **Backend:** *(Specify here, e.g., Node.js/Express, or C# .NET Core)*
+- **Database:** *(Specify here, e.g., MongoDB, SQL Server)*
+- **API:** RESTful endpoints
+
+---
+
+## Screenshots
+
+**Step 1: Requirements Wizard**  
+![Requirements Step](attachments/Screenshot-2025-07-25-174225.jpg)
+
+**Step 2: Visibility & Filters Wizard**  
+![Visibility & Filters Step](attachments/Screenshot-2025-07-25-174245.jpg)
+
+**Step 3: Job Details Example**  
+![Job Details Page](attachments/Screenshot-2025-07-25-174404.jpg)
+
+**Step 4: Basic Details Wizard**  
+![Basic Details Step](attachments/Screenshot-2025-07-25-174046.jpg)
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (Recommended LTS version)
+- npm or yarn
+- *(If C# backend: .NET SDK)*
+- Database server as per backend
+
+### Installation
+
+1. **Clone the Repository**
+
+`git clone https://github.com/Manuchandrasai/Recruiter_Dashboard.git`
+`cd Recruiter_Dashboard`
+
+
+2. **Frontend Setup**
+
+`cd frontend`
+`npm install`
+
+
+3. **Backend Setup**
+
+`cd ../backend/RecruiterApi`
+`npm install`
+
+6. **Access the application:**  
+Open `http://localhost:3000` in your web browser.
+
+---
+
+## Usage Guide
+
+1. **Create a New Job/Internship Posting**
+- Fill in the required information step-by-step: Basic Details → Requirements → Visibility & Filters.
+- Add required skills (e.g., C++, Java), tech stack, academic filters (CGPA, branch, year), and choose visibility options.
+
+2. **Manage All Postings**
+- Use the dashboard to view, edit, or delete your postings.
+- Detailed job pages show all criteria, eligibility, and requirements for each position.
+
+---
+
+## Contributing
+
+1. Fork the repo
+2. Create a feature branch  
+`git checkout -b feature/YourFeature`
+3. Commit and push changes  
+`git commit -am 'Add feature'`  
+`git push origin feature/YourFeature`
+4. Open a Pull Request
+
+---
+
+## License
+
+MIT License
+
+---
+
+**Happy Recruiting!**
+
+
+
