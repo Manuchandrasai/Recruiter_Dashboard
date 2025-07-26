@@ -29,16 +29,21 @@ A full-stack web application for recruiters to create, manage, and filter job/in
 
 ## Screenshots
 
-**Step 1: Requirements Wizard**  
-![Basic Details]<img width="1365" height="767" alt="Screenshot 2025-07-25 174046" src="https://github.com/user-attachments/assets/ce0086e7-d6e5-4dcc-a1a7-5787c6b53057" />
+**Basic Details**  
+<img width="1365" height="767" alt="Screenshot 2025-07-25 174046" src="https://github.com/user-attachments/assets/ce0086e7-d6e5-4dcc-a1a7-5787c6b53057" />
 
-**Step 2: Visibility & Filters Wizard**  
-![Visibility & Filters Step](attachments/Screenshot-2025-07-25-174245.jpg)
+**Requirements** 
+<img width="1365" height="767" alt="Screenshot 2025-07-25 174225" src="https://github.com/user-attachments/assets/e809c66d-f0c0-46e1-b626-26b21c637657" />
 
-**Step 3: Job Details Example**  
-![Job Details Page](attachments/Screenshot-2025-07-25-174404.jpg)
+**Visibility & Filters Wizard**  
+<img width="1365" height="767" alt="Screenshot 2025-07-25 174245" src="https://github.com/user-attachments/assets/d8e75d30-08ab-4492-a5b0-e266456dfc85" />
 
-**Step 4: Basic Details Wizard**  
+
+**Job Details Example**  
+<img width="1365" height="767" alt="Screenshot 2025-07-25 174414" src="https://github.com/user-attachments/assets/04dcfc6b-31e0-4fab-8e36-5e9dcd63d62d" />
+<img width="1365" height="767" alt="Screenshot 2025-07-25 174404" src="https://github.com/user-attachments/assets/7969907e-f42a-4c9f-b224-4a4f675c67be" />
+
+**Basic Details Wizard**  
 ![Basic Details Step](attachments/Screenshot-2025-07-25-174046.jpg)
 
 ---
